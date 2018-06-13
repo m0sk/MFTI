@@ -38,9 +38,11 @@ turtle.left(90)
 turtle.forward(50)
 '''
 
-for i in range(4):
-    turtle.forward(100)
-    turtle.left(90)
+for i in range(60):
+    turtle.forward(10)
+    turtle.left(360/60)
+
+
 
 
 input()
